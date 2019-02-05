@@ -24,7 +24,7 @@ FILE_LICENCE ( GPL2_OR_LATER_OR_UBDL );
  * "iPXE".
  *
  */
-#define PRODUCT_NAME "xCAT Network Boot Agent"
+#define PRODUCT_NAME "xCAT Network Boot Agent at CCI"
 #define PRODUCT_SHORT_NAME "xNBA"
 #define PRODUCT_URI "http://ipxe.org"
 
